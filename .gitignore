@@ -1,0 +1,5 @@
+# Ignore Unreal Engine intermediate and build files
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
