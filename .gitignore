@@ -3,3 +3,7 @@ DerivedDataCache/
 Intermediate/
 Saved/
 *.log
+# Ignore Unreal Engine auto-saves and temporary files
+Saved/Autosaves/
+Intermediate/
+DerivedDataCache/
